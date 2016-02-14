@@ -85,3 +85,6 @@ else
 printf("\n\n\t\tGiven string is palindrome.");
 return 0;
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
