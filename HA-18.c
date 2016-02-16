@@ -79,3 +79,6 @@ printf("\n");
 else
 printf("\nStack is Empty");
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
