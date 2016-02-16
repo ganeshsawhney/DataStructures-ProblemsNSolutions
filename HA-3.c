@@ -54,3 +54,6 @@ ptr=ptr->next;
 printf("Second largest Element :\t%d",ptr2->info);
 return 0;
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
