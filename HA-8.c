@@ -30,3 +30,6 @@ int addword(node *start,char a[])
 	temp->next=NULL;
 	return 1;
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
